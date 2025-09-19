@@ -17,8 +17,8 @@
 
 ## My projects
 
+[Rev](https://rev-kun.vercel.app) - A demo/tutorial screen recorder with auto zoom and pan effect alongside annotation and custom screenshot features. 
+
+[Github Heatmap Designer](https://github-designer.vercel.app) - A small utility that enables you to make some pixel art on your github heatmap. 
+
 [Promanage](https://promanage-ten.vercel.app) - A Work Management Tool with kanban board and node based workflow builder. 
-
-[Havns](https://havns.vercel.app) - A Venue Booking Platform
-
-[IP Server and Client Model](https://github.com/dharmesh53/IP-Server-And-Client-Model) - A model illustrating data transfer between server to client using raw socket on IP address in C
